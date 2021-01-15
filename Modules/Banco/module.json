@@ -1,0 +1,13 @@
+{
+    "name": "Banco",
+    "alias": "banco",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Banco\\Providers\\BancoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
